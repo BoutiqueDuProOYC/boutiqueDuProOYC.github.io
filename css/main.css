@@ -699,7 +699,7 @@ img {
 	margin-left: -250px;
 }
 .slide-man2 {
-	background: url("../img/staticks/slider_man2.png") no-repeat;
+	background: url("../img/MNM/mnm_screen.png") no-repeat;
 	height:  570px;
 	width: 413px;
 	left: 50%;
@@ -2590,8 +2590,8 @@ section.video-bxslider:hover:after {
 	background: rgba(45, 62, 80, 0.1);
 }
 .glam-btn {
-	/*background: rgba(0, 0, 0, 0.1);*/
-	background:url(/img/staticks/mnm_logo.png) no-repeat;
+	/*background:url(/img/staticks/mnm_logo.png) no-repeat;*/
+	background: rgba(0, 0, 0, 0.1);
 	border: 1px solid #C8CCCF;
 	color: #fff;
 }
